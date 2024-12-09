@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Redis data and dumps
+dump.rdb
+redis-6.0.10/
+
+# Logs
+*.log
+
+# Package lock files (optional, only if you want to ignore it)
+package-lock.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous files
+*.tgz
+
